@@ -1,5 +1,6 @@
-# TrustedSystems.github.io
-TrustedSystems website
+# TrustAI FPGA Website (Modern Design)
+
+Modern static site for the startup.
 
 ## Features
 - Responsive grid/flex layouts
@@ -23,4 +24,4 @@ TrustedSystems website
 - JS: Extend for more interactivity
 - Update sitemap dates/URLs with your domain
 
-© 2026 TrustedSystems
+© 2026 Boris
